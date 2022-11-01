@@ -1,5 +1,5 @@
 // 학점 메기기
-
+// 연습중임
 package study;
 
 public class Study1028 {
@@ -9,7 +9,7 @@ public class Study1028 {
 			int x = (int)(Math.random()*6)+1;
 			int y = (int)(Math.random()*6)+1;
 			result = x +y;
-			System.out.println("("+x +"," + y +")");
+			System.out.println("("+x +"," + y +")"); 
 		}
 	}
 }
